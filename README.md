@@ -1,6 +1,7 @@
 # Raymond
 
 My BOJ complication
+
 first goal is reach level <Gold 3>
 
 

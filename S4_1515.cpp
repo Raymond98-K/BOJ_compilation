@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int main(void)
+int S4_1515(void)
 {
 	string erased;
 	cin >> erased;
